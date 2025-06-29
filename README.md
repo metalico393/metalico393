@@ -3,6 +3,9 @@
 
 <img src="https://tenor.com/j6oxsxE6eT3.gif" width="360" style="border-radius:16px" alt="Lappland Arknights"/>
 
+
+https://tenor.com/j6oxsxE6eT3.gif
+
 # <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="36"/> <span style="color:#FFC300;">Welcome, Guys!</span>
 ## <span style="color:#00D9FF">Mohammad Nahrowi Setiawan</span> — <span style="font-size:20px; color:#A0A0A0;">AI Developer & Game Creator</span>
 
