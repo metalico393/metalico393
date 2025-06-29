@@ -4,7 +4,7 @@
 <img src="https://tenor.com/j6oxsxE6eT3.gif" width="360" style="border-radius:16px" alt="Lappland Arknights"/>
 
 
-https://tenor.com/j6oxsxE6eT3.gif
+https://tenor.com/id/view/lappland-arknights-spin-gif-8341984115044906333
 
 
 <div class="tenor-gif-embed" data-postid="8341984115044906333" data-share-method="host" data-aspect-ratio="1.43312" data-width="100%"><a href="https://tenor.com/view/lappland-arknights-spin-gif-8341984115044906333">Lappland Arknights GIF</a>from <a href="https://tenor.com/search/lappland-gifs">Lappland GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
