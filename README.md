@@ -7,9 +7,7 @@
 http://tenor.com/id/view/lappland-arknights-spin-gif-8341984115044906333
 
 
-<div class="tenor-gif-embed" data-postid="8341984115044906333" data-share-method="host" data-aspect-ratio="1.43312" data-width="100%"><a href="https://tenor.com/view/lappland-arknights-spin-gif-8341984115044906333">Lappland Arknights GIF</a>from <a href="https://tenor.com/search/lappland-gifs">Lappland GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-# <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="36"/> <span style="color:#FFC300;">Welcome, Guys!</span>
+<https://images-ext-1.discordapp.net/external/Vxjz5ySWQRNOGaN9eLAv8Kk38RTPxFN5jCSe0JTMduM/https/media.tenor.com/j6FJISmumJEAAAPo/arknights-nian.mp4 src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="36"/> <span style="color:#FFC300;">Welcome, Guys!</span>
 ## <span style="color:#00D9FF">Mohammad Nahrowi Setiawan</span> — <span style="font-size:20px; color:#A0A0A0;">AI Developer & Game Creator</span>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Level+Up+Your+Code+Journey!;Inspired+by+Lappland+%26+Ghost;AI+%7C+Game+Dev+%7C+Python+%7C+Coffee+Powered" alt="Typing SVG" />
