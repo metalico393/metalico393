@@ -1,13 +1,14 @@
+
 <div align="center" style="background: linear-gradient(135deg,#232526 0%,#414345 100%); border-radius: 20px; padding: 32px 0 24px 0; box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);">
 
-<img src="https://media.giphy.com/media/hV9S9U3K1Pz2z4J1mB/giphy.gif" width="380" style="border-radius:16px" alt="Punishing Gray Raven"/>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="360" style="border-radius:16px" alt="Lappland Arknights"/>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="36"/> <span style="color:#FFC300;">Welcome, Guys!</span>
 ## <span style="color:#00D9FF">Mohammad Nahrowi Setiawan</span> — <span style="font-size:20px; color:#A0A0A0;">AI Developer & Game Creator</span>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Level+Up+Your+Code+Journey!;PGR,+Arknights,+CoD+Inspired;AI+%7C+Game+Dev+%7C+Python+%7C+Coffee+Powered" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Level+Up+Your+Code+Journey!;Inspired+by+Lappland+%26+Ghost;AI+%7C+Game+Dev+%7C+Python+%7C+Coffee+Powered" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120" alt="Arknights vibe"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV4bHh2bHh3c2V1b3pqenV4cHRoZ2t5b2J6MG1yZjc4d2RxeHF5aCZlcD12MV9naXZoZW5nYW5ncmFwZmlsZXNfYXBpX2xpYnJhcnkmY2Q9Yw/26xBukhKTYE3B6nUc/giphy.gif" width="120" alt="Ghost CoD" />
 
 ---
 
@@ -39,9 +40,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,godot,vscode,pycharm,git,github" />
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ttNjg5cHZzM3B1b2F6NDNwMGg2c3NpcmpuMm91ZTl6Z3d5emR2YSZlcD12MV9naXZoZW5nYW5ncmFwZmlsZXNfYXBpX2xpYnJhcnkmY2Q9Y2w/6FhUu6xTtG4ba/giphy.gif" width="110" title="Punishing Gray Raven"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R4c25jd3N2b29qOGh4dGdtd3Jyb2xvd2R2b3Q3a2J3M3ZxZmpjMiZlcD12MV9naXZoZW5nYW5ncmFwZmlsZXNfYXBpX2xpYnJhcnkmY2Q9Yw/1n2yFVbJXzUhy/giphy.gif" width="110" title="Arknights"/>
-  <img src="https://media.giphy.com/media/3o7TKtd1p8l98JQyYw/giphy.gif" width="110" title="Call of Duty"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDV4bHh2bHh3c2V1b3pqenV4cHRoZ2t5b2J6MG1yZjc4d2RxeHF5aCZlcD12MV9naXZoZW5nYW5ncmFwZmlsZXNfYXBpX2xpYnJhcnkmY2Q9Yw/26xBukhKTYE3B6nUc/giphy.gif" width="90" title="Ghost CoD"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="90" title="Lappland Arknights"/>
 </div>
 
 ---
@@ -83,7 +83,7 @@ class Player:
 me = Player()
 me.start_quest()
 ```
-<img src="https://media.giphy.com/media/26xBukhKTYE3B6nUc/giphy.gif" width="120" alt="CoD-Ready"/>
+<img src="https://media.giphy.com/media/1n2yFVbJXzUhy/giphy.gif" width="120" alt="Lappland action" />
 
 ---
 
@@ -97,10 +97,12 @@ me.start_quest()
 ---
 
 ### <span style="color:#00D9FF;"><b>🚀 "Code your destiny. Every line is a new adventure!" 🚀</b></span>
-<img src="https://media.giphy.com/media/1kFfV5h8fY9wX8xI3c/giphy.gif" width="180" alt="anime-inspire" />
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="180" alt="Ghost mask" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 **<span style="color:#FFC300;font-weight:bold;">⭐ Don’t forget to star my repos if you like them! Power up my journey! ⭐</span>**
 
 </div>
+
+---
