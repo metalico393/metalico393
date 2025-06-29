@@ -7,7 +7,7 @@
 https://tenor.com/j6oxsxE6eT3.gif
 
 
-https://tenor.com/j6oxsxE6eT3.gif
+<div class="tenor-gif-embed" data-postid="8341984115044906333" data-share-method="host" data-aspect-ratio="1.43312" data-width="100%"><a href="https://tenor.com/view/lappland-arknights-spin-gif-8341984115044906333">Lappland Arknights GIF</a>from <a href="https://tenor.com/search/lappland-gifs">Lappland GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="36"/> <span style="color:#FFC300;">Welcome, Guys!</span>
 ## <span style="color:#00D9FF">Mohammad Nahrowi Setiawan</span> — <span style="font-size:20px; color:#A0A0A0;">AI Developer & Game Creator</span>
