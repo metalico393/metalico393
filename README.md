@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="440" style="border-radius:16px" />
 
-# <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="36"/> Welcome, Challenger!
+# <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="36"/> Welcome Guys!
 ## <span style="color:#00D9FF">Mohammad Nahrowi Setiawan</span> — <span style="font-size:20px;">AI Developer & Game Creator</span>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Level+Up+Your+Code+Journey!;AI+%7C+Game+Dev+%7C+Python+%7C+Coffee+Powered" alt="Typing SVG" />
