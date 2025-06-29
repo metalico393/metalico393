@@ -1,6 +1,3 @@
-Absolutely! Here’s your README made more colorful and vibrant using HTML color styling, emoji, and some playful color for the text. This version will pop both on desktop and mobile GitHub:
-
----
 
 <div align="center" style="background: linear-gradient(135deg,#141e30 0%,#243b55 100%); border-radius: 20px; padding: 32px 0 24px 0; box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);">
 
@@ -102,7 +99,3 @@ me.start_quest()
 </div>
 
 ---
-
-> 🌈 **Tips:** HTML color styling (like `<span style="color:...">`) works on GitHub profile README, but not on all markdown renderers or dark themes. For best effect, combine with emoji & badge colors as above!
-
-Let me know if you want even more vibrant gradients, backgrounds, or extra icons!
