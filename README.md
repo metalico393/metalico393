@@ -26,7 +26,6 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -41,17 +40,6 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-## 🤖 AI & Machine Learning
-
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -87,10 +75,9 @@ class Developer:
         self.name = "Mohammad Nahrowi Setiawan"
         self.role = "AI Developer & Game Creator"
         self.language_spoken = ["Indonesian", "English"]
-        self.code = ["Python", "GDScript", "JavaScript", "HTML", "CSS"]
+        self.code = ["Python", "GDScript", "HTML", "CSS"]
         self.tools = ["VS Code", "PyCharm", "Godot", "Git", "GitHub"]
-        self.ai_ml = ["TensorFlow", "Scikit-learn", "NumPy", "Pandas"]
-        self.architecture = ["AI/ML", "Game Development", "Web Development"]
+        self.architecture = ["AI/ML", "Game Development"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
