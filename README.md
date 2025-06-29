@@ -80,15 +80,6 @@ me.start_quest()
 
 ---
 
-## 🏅 ACHIEVEMENTS
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mohnahrowisetiawan217&style=for-the-badge&color=brightgreen&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Mohnahrowisetiawan217?style=for-the-badge&color=blue&labelColor=black)](https://github.com/Mohnahrowisetiawan217)
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
----
-
 ### 💬 <span style="color:#00D9FF;">"Code your destiny. Every line is a new adventure!"</span>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
