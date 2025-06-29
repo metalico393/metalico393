@@ -1,7 +1,7 @@
 
 <div align="center" style="background: linear-gradient(135deg,#232526 0%,#414345 100%); border-radius: 20px; padding: 32px 0 24px 0; box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);">
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="360" style="border-radius:16px" alt="Lappland Arknights"/>
+<img src="https://tenor.com/j6oxsxE6eT3.gif" width="360" style="border-radius:16px" alt="Lappland Arknights"/>
 
 # <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="36"/> <span style="color:#FFC300;">Welcome, Guys!</span>
 ## <span style="color:#00D9FF">Mohammad Nahrowi Setiawan</span> — <span style="font-size:20px; color:#A0A0A0;">AI Developer & Game Creator</span>
