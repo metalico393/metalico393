@@ -1,6 +1,3 @@
-Absolutely! Here’s a **README** “meme” style in English, with a mix of global and Indonesian-relevant GIFs. Everything is light-hearted, with GIFs that will be relatable for both Indonesian and international visitors. You can copy-paste and adjust usernames/links as needed.
-
----
 
 <div align="center">
 
@@ -77,7 +74,3 @@ while True:
 
 ---
 
-**Notes:**
-- Semua GIF relate untuk global dan Indonesia (misal: ngoding sampe subuh, “Teh Kotak mood”, “error on my machine”).
-- Bahasa Inggris santai, tetap lucu/meme.
-- Jika ingin tambah meme Indo banget (kayak “Wadidaw”, “Mabar Bang!”), tinggal bilang!
